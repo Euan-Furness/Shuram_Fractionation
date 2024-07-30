@@ -6,3 +6,7 @@ Empirical datasets are derived from existing publications:
 * Kikumoto et al. (2014). "Nitrogen isotope chemostratigraphy of the Ediacaran and Early Cambrian platform sequence at Three Gorges, South China"
 
 Python code is written in Spyder 5.4.3.
+
+---
+
+Simulation sets can be run using the Genetic_Algorithm_Sets.py script. Individual carbonate and organic carbon records can be pulled from the output of Genetic_Algorithm_Sets.py using Create_Time_Series.py.
